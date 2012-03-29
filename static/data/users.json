@@ -1,0 +1,7 @@
+{
+    success: true,
+    users: [
+        {id: 1, first_name: 'Ed',    second_name: 'ed@sencha.com'},
+        {id: 2, first_name: 'Tommy', second_name: 'tommy@sencha.com'}
+    ]
+}
